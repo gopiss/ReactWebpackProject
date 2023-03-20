@@ -1,0 +1,17 @@
+.heading1{
+    text-align: center;
+    }
+.heading6 {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    width:100%;
+    object-fit: contain;
+}
+
