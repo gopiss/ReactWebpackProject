@@ -35,5 +35,5 @@ module.exports = {
       template: "./src/index.html",
     }),
   ],
-  mode: process.env.NODE_ENV === "production" ? "production" : "development",
+  mode:"production",
 };
